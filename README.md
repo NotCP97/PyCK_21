@@ -6,10 +6,10 @@ Predictive Maintenance For TurboFan Engine
 We are using machine learning methods to calculate Remaining useful life(RUL) for turbofan engine.
 
 Libraries used:
-Numpy
-Pandas
-sklearn
-Matplotlib
+Numpy,
+Pandas,
+sklearn,
+Matplotlib,
 seaborn
 
 
